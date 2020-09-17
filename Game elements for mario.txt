@@ -1,0 +1,21 @@
+Game Elements:
+	
+	1.Characters:
+		1.Enemies(NPC).
+		2.Mario(PC).
+	2.Feedback:
+		a.Sounds
+		b.Scores
+	3.Goal - Reach the end safely without losing any life.
+	4.Rules:
+a.Control Mario using arrow keys.
+b.Collect coins.
+c.Limited lives(3).
+d.Lose 1 life , if Mario touches the enemy.
+e.Reach the other level only after completing the previous level.
+	5.Story
+	6.Balance - Gain 1 more life , after touching the floating lives above the ground.
+	7.Adaptivity - Introduce Mario to a new place/enemy if the mario has a power pack or a fly pack
+	8.Chance vs skill:
+		a.Chance - Motion of the enemies.
+		b.Skill - Controlling the mario.
